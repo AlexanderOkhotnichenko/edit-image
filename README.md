@@ -1,1 +1,1 @@
-# edit.image
+# edit-image
