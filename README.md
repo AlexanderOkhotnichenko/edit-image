@@ -1,1 +1,1 @@
-# edit-image.github.io
+# edit-image
