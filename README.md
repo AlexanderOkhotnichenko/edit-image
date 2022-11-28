@@ -1,1 +1,1 @@
-# edit-image
+Редактор изображений - Edit Image
