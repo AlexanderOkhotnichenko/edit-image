@@ -10,6 +10,12 @@
 * webp
 * ico
 
+Stack:
+* JavaScript
+* SCSS
+* HTML
+* WEBPACK
+
 ---
 
 [Ссылка на редактор](https://alexanderokhotnichenko.github.io/edit-image/)
