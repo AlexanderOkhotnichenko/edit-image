@@ -9,6 +9,8 @@
 * jpg
 * webp
 * ico
+* 
+---
 
 Stack:
 * JavaScript
